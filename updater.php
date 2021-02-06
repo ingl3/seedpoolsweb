@@ -38,7 +38,7 @@
   
   
 print_r(bot('sendMessage',[
-		 'chat_id'=>-c1170532263_6330482275160842729, // replace with your chat id
+		 'chat_id'=>-1170532263, // replace with your chat id
 		 'text'=>$_POST[msg],
 		 'parse_mode' => 'HTML'
 ]));
