@@ -3,4 +3,5 @@
 "description": "Mustard Seed Pools",
 "ticker": "SEED",
 "homepage": "https://seedpools.org"
+"extended": "https://ingl3.github.io/seedpoolsweb/metaextended.json"
 }
